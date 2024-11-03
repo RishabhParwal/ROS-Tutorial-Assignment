@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+launch/collection_launch.py
+resource/rover_collection
+rover_collection/__init__.py
+rover_collection/collection_client.py
+rover_collection/collection_service.py
+rover_collection/rover_collection.py
+rover_collection.egg-info/PKG-INFO
+rover_collection.egg-info/SOURCES.txt
+rover_collection.egg-info/dependency_links.txt
+rover_collection.egg-info/entry_points.txt
+rover_collection.egg-info/requires.txt
+rover_collection.egg-info/top_level.txt
+rover_collection.egg-info/zip-safe

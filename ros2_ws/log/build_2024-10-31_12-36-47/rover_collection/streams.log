@@ -1,0 +1,20 @@
+[0.737s] Invoking command in '/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_collection': PYTHONPATH=/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_collection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_collection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_collection/build --no-deps symlink_data
+[0.879s] running develop
+[0.963s] running egg_info
+[0.963s] writing rover_collection.egg-info/PKG-INFO
+[0.963s] writing dependency_links to rover_collection.egg-info/dependency_links.txt
+[0.963s] writing entry points to rover_collection.egg-info/entry_points.txt
+[0.963s] writing requirements to rover_collection.egg-info/requires.txt
+[0.963s] writing top-level names to rover_collection.egg-info/top_level.txt
+[0.964s] reading manifest file 'rover_collection.egg-info/SOURCES.txt'
+[0.964s] writing manifest file 'rover_collection.egg-info/SOURCES.txt'
+[0.965s] running build_ext
+[0.965s] Creating /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_collection/lib/python3.10/site-packages/rover-collection.egg-link (link to .)
+[0.965s] Installing collection_client script to /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_collection/lib/rover_collection
+[0.965s] Installing collection_service script to /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_collection/lib/rover_collection
+[0.966s] Installing rover_collection script to /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_collection/lib/rover_collection
+[0.966s] 
+[0.966s] Installed /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_collection
+[0.966s] running symlink_data
+[0.966s] error: can't copy '/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_collection/srv/rover_collection.srv': doesn't exist or not a regular file
+[0.995s] Invoked command in '/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_collection' returned '1': PYTHONPATH=/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_collection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_collection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_collection/build --no-deps symlink_data

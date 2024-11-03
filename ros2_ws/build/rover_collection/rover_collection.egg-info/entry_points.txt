@@ -1,0 +1,5 @@
+[console_scripts]
+collection_client = rover_collection.collection_client:main
+collection_service = rover_collection.collection_service:main
+rover_collection = rover_collection.rover_collection:main
+

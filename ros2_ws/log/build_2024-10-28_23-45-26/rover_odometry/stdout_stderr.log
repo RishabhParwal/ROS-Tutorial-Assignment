@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing rover_odometry.egg-info/PKG-INFO
+writing dependency_links to rover_odometry.egg-info/dependency_links.txt
+writing entry points to rover_odometry.egg-info/entry_points.txt
+writing requirements to rover_odometry.egg-info/requires.txt
+writing top-level names to rover_odometry.egg-info/top_level.txt
+reading manifest file 'rover_odometry.egg-info/SOURCES.txt'
+writing manifest file 'rover_odometry.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_odometry/lib/python3.10/site-packages/rover-odometry.egg-link (link to .)
+Installing rover_odometry_publisher script to /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_odometry/lib/rover_odometry
+Installing rover_odometry_subscriber script to /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_odometry/lib/rover_odometry
+
+Installed /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_odometry
+running symlink_data
+error: can't copy '/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_odometry/msg/RoverOdometry.msg': doesn't exist or not a regular file

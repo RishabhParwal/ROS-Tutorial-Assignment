@@ -1,0 +1,21 @@
+running develop
+running egg_info
+creating rover_movement.egg-info
+writing rover_movement.egg-info/PKG-INFO
+writing dependency_links to rover_movement.egg-info/dependency_links.txt
+writing entry points to rover_movement.egg-info/entry_points.txt
+writing requirements to rover_movement.egg-info/requires.txt
+writing top-level names to rover_movement.egg-info/top_level.txt
+writing manifest file 'rover_movement.egg-info/SOURCES.txt'
+reading manifest file 'rover_movement.egg-info/SOURCES.txt'
+writing manifest file 'rover_movement.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_movement/lib/python3.10/site-packages/rover-movement.egg-link (link to .)
+
+Installed /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_movement
+running symlink_data
+creating /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_movement/share/ament_index
+creating /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_movement/share/ament_index/resource_index
+creating /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_movement/share/ament_index/resource_index/packages
+symbolically linking /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_movement/resource/rover_movement -> /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_movement/share/ament_index/resource_index/packages
+symbolically linking /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_movement/package.xml -> /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_movement/share/rover_movement

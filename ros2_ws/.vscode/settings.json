@@ -1,0 +1,26 @@
+{
+  "python.autoComplete.extraPaths": [
+    "/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_status",
+    "/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_status/lib/python3.10/site-packages",
+    "/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_odometry",
+    "/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_odometry/lib/python3.10/site-packages",
+    "/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_navigation",
+    "/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_navigation/lib/python3.10/site-packages",
+    "/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_movement",
+    "/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_movement/lib/python3.10/site-packages",
+    "/opt/ros/humble/lib/python3.10/site-packages",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages"
+  ],
+  "python.analysis.extraPaths": [
+    "/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_status",
+    "/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_status/lib/python3.10/site-packages",
+    "/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_odometry",
+    "/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_odometry/lib/python3.10/site-packages",
+    "/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_navigation",
+    "/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_navigation/lib/python3.10/site-packages",
+    "/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_movement",
+    "/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_movement/lib/python3.10/site-packages",
+    "/opt/ros/humble/lib/python3.10/site-packages",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages"
+  ]
+}

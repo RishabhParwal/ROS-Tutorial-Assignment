@@ -1,0 +1,15 @@
+[0.590s] Invoking command in '/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_movement': PYTHONPATH=/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_movement/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_movement/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_movement/build --no-deps symlink_data
+[0.741s] running develop
+[0.818s] running egg_info
+[0.818s] writing rover_movement.egg-info/PKG-INFO
+[0.818s] writing dependency_links to rover_movement.egg-info/dependency_links.txt
+[0.818s] writing entry points to rover_movement.egg-info/entry_points.txt
+[0.818s] writing requirements to rover_movement.egg-info/requires.txt
+[0.818s] writing top-level names to rover_movement.egg-info/top_level.txt
+[0.819s] reading manifest file 'rover_movement.egg-info/SOURCES.txt'
+[0.819s] writing manifest file 'rover_movement.egg-info/SOURCES.txt'
+[0.820s] running build_ext
+[0.820s] Creating /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_movement/lib/python3.10/site-packages/rover-movement.egg-link (link to .)
+[0.821s] 
+[0.821s] Installed /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_movement
+[0.821s] running symlink_data

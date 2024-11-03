@@ -1,0 +1,18 @@
+[0.592s] Invoking command in '/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_odometry': PYTHONPATH=/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_odometry/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_odometry/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_odometry/build --no-deps symlink_data
+[0.735s] running develop
+[0.812s] running egg_info
+[0.813s] writing rover_odometry.egg-info/PKG-INFO
+[0.813s] writing dependency_links to rover_odometry.egg-info/dependency_links.txt
+[0.813s] writing entry points to rover_odometry.egg-info/entry_points.txt
+[0.813s] writing requirements to rover_odometry.egg-info/requires.txt
+[0.813s] writing top-level names to rover_odometry.egg-info/top_level.txt
+[0.814s] reading manifest file 'rover_odometry.egg-info/SOURCES.txt'
+[0.815s] writing manifest file 'rover_odometry.egg-info/SOURCES.txt'
+[0.815s] running build_ext
+[0.815s] Creating /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_odometry/lib/python3.10/site-packages/rover-odometry.egg-link (link to .)
+[0.816s] Installing rover_odometry_publisher script to /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_odometry/lib/rover_odometry
+[0.816s] Installing rover_odometry_subscriber script to /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_odometry/lib/rover_odometry
+[0.816s] 
+[0.816s] Installed /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_odometry
+[0.816s] running symlink_data
+[0.844s] Invoked command in '/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_odometry' returned '0': PYTHONPATH=/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_odometry/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/install/rover_odometry/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/rishabh/Desktop/MRT/Assignments/Assignment2/ros2_ws/build/rover_odometry/build --no-deps symlink_data

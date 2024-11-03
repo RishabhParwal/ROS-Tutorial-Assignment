@@ -1,0 +1,4 @@
+[console_scripts]
+obstacle_avoidance = rover_navigation.obstacle_avoidance:main
+rover_navigation = rover_navigation.rover_navigation:main
+

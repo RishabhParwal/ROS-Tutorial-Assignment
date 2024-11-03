@@ -1,0 +1,5 @@
+[console_scripts]
+battery_temp_publisher = rover_status.battery_temp_publisher:main
+health_status_publisher = rover_status.health_status_publisher:main
+rover_status_subscriber = rover_status.rover_status_subscriber:main
+
